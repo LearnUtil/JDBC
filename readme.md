@@ -7,7 +7,7 @@ JDBC-sample work
 	
 	How do you run this?
 		-> clone this repo
-		-> download postgers from {here}
+		-> download postgers from [here](https://www.postgresql.org/download/)
 		-> run the setup.sh [How to run -> sh setup.sh]
 		-> run the run.sh in terminal
 	ENJOY!!
